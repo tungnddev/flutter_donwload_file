@@ -4,6 +4,6 @@ class OSNotSupportException implements Exception {
 
   @override
   String toString() {
-    return "This plugin not support fro $_os";
+    return "This plugin not support for $_os";
   }
 }

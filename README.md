@@ -6,7 +6,7 @@ With iOS, this plugin will auto save image to Photos (if file is image) or show 
 ![](/images/share.png)
 
 ## iOS integration
-Add description to save image to photos (add following codes to `Infor.plist` file)
+Add description to save image to photos (add following codes to `Info.plist` file)
 ```
 <key>NSPhotoLibraryAddUsageDescription</key>
 <string>We need access to photo library so that photos can be download</string>
